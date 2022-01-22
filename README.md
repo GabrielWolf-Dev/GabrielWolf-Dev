@@ -1,5 +1,8 @@
-# Hi there 👋, I am web developer Front-End 😀💻
-I am currently studying and doing some projects for portfolio or to help people and for get a job in the near future.
+# Olá 👋, sou um desenvolvedor Front-End 😀💻🎨
+Atualmente estou dando enfoque no desenvolvimento back-end com PHP, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta.
+Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
+<br>
+Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo para aplicar os conceitos estudados e aperfeiçoando habilidades adquiridas.
 
 <div>
   <a href="https://github.com/GabrielWolf-Dev">
@@ -8,7 +11,7 @@ I am currently studying and doing some projects for portfolio or to help people 
 </div>
 
 <div style="display: inline_block">
-  <h2>Skills</h2>
+  <h2>Habilidades</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,12 +22,14 @@ I am currently studying and doing some projects for portfolio or to help people 
 </div>
 <br>
 <div style="display: inline_block">
-   <h2>Currently learning</h2>
+   <h2>Atualmente aprendendo</h2>
   
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
   <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original-wordmark.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 <br>
 <a href="https://www.linkedin.com/in/gabriel-wolf-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href = "mailto:gabrielw.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/GabrielWolf-Dev/GabrielWolf-Dev/blob/output/github-contribution-grid-snake.svg)
