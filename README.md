@@ -1,5 +1,5 @@
 # Olá 👋, sou um desenvolvedor Front-End 😀💻🎨
-Atualmente estou dando enfoque no desenvolvimento back-end com PHP, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta.
+Atualmente estou dando enfoque no desenvolvimento back-end com Node.js, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta.
 Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
 <br>
 Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo para aplicar os conceitos estudados e aperfeiçoando habilidades adquiridas.
@@ -24,8 +24,7 @@ Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo pa
 <div style="display: inline_block">
    <h2>Atualmente aprendendo</h2>
   
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
-  <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original-wordmark.svg">
+<img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 <br>
