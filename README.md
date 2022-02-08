@@ -6,12 +6,14 @@ Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo pa
 
 <div>
   <a href="https://github.com/GabrielWolf-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWolf-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWolf-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielWolf-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWolf-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+<br>
+<img align="right"  height="300em" src="./assets/lofi_generator(Gabriel).png" />
 <div style="display: inline_block">
   <h2>Habilidades</h2>
+  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,8 +25,8 @@ Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo pa
 <br>
 <div style="display: inline_block">
    <h2>Atualmente aprendendo</h2>
-  
-<img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+
+  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 <br>
