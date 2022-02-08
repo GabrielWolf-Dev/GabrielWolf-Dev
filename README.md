@@ -1,16 +1,18 @@
 # Olá 👋, sou um desenvolvedor Front-End 😀💻🎨
-Atualmente estou dando enfoque no desenvolvimento back-end com Node.js, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta.
-Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
-<br>
-Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo para aplicar os conceitos estudados e aperfeiçoando habilidades adquiridas.
 
+<img align="left" width="350vw" height="200vw" src="./assets/lofi_generator(Gabriel).png" />
+<br>
+<p>
+  Atualmente estou dando enfoque no desenvolvimento back-end com Node.js, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta. Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
+  <br>
+  Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo para aplicar os conceitos estudados e aperfeiçoando habilidades adquiridas.
+</p>
+<br><br>
 <div>
   <a href="https://github.com/GabrielWolf-Dev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielWolf-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWolf-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWolf-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWolf-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br>
-<img align="right"  height="300em" src="./assets/lofi_generator(Gabriel).png" />
 <div style="display: inline_block">
   <h2>Habilidades</h2>
   
