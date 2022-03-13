@@ -3,7 +3,7 @@
 <img align="left" width="350vw" height="200vw" src="./assets/lofi_generator(Gabriel).png" />
 <br>
 <p>
-  Atualmente estou dando enfoque no desenvolvimento back-end com PHP e um pouco de Node.js, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta e se tornar um Full-Stack. Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
+  Atualmente estou dando enfoque no desenvolvimento back-end com Node.js e um pouco de PHP, algumas tecnologias "Backend as a Service" para realmente conhecer essa área tão robusta e conhecer áreas vizinhas. Estou iniciando a minha graduação em Engenharia de Software na Estácio e também a procura de um emprego/estágio na área front-end, preferencialmente Home Office.
   <br>
   Sempre estou ativo no Github, contribuindo com novos projetos que vou fazendo para aplicar os conceitos estudados e aperfeiçoando habilidades adquiridas.
 </p>
@@ -27,10 +27,6 @@
     <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
-</div>
-<br>
-<div style="display: inline_block">
-   <h2>Atualmente aprendendo</h2>
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
